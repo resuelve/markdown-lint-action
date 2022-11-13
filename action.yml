@@ -1,0 +1,5 @@
+name: "Markdown linter action"
+description: "Run markdownlint-cli2"
+runs:
+  using: "docker"
+  image: "Dockerfile"

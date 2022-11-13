@@ -1,0 +1,9 @@
+{
+  // Rules are defined in https://github.com/DavidAnson/markdownlint/#rules--aliases
+  "config": {
+    "MD013": false
+  },
+  "ignores": [
+    "node_modules"
+  ]
+}
